@@ -4,6 +4,9 @@ This is a simple **console-based Snakes and Ladders game** developed in C++ as p
 
 ---
 
+**Important Setting**
+- Terminal Font should be Raster Font of 8x8 to see the complete and perfect output
+
 ## 🕹️ How to Play
 - Choose the number of players (recommended: 2–4).
 - Players take turns rolling a virtual dice.
