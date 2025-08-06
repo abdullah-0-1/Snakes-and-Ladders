@@ -36,6 +36,3 @@ This project was developed to practice:
 - Functions and arrays
 - Console-based logic
 
-
-> *(Add a screenshot if you have one!)*
-
